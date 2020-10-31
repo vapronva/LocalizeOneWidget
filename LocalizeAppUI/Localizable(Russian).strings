@@ -6,12 +6,12 @@
   
 */
 "Home" = "";
-"Preview" = "";
-"Setting" = "";
-"Search Widgets" = "=";
-"Widgets in One App" = "";
-"Widget" = "";
-"Theme" = "";
+"Preview" = "Предпросмотр";
+"Setting" = "Настройки";
+"Search Widgets" = "Поиск виджетов";
+"Widgets in One App" = "Все виджеты в одном приложении";
+"Widget" = "Виджет";
+"Theme" = "Тема";
 "Submit" = "";
 "Back" = "";
 "Small" = "";
@@ -22,27 +22,27 @@
 "There is no incomplete reminders at present." = "";
 
 
-"Random Color" = "";
-"Red" = "";
-"White" = "";
-"Blue" = "";
-"Coral" = "";
-"Orange" = "";
-"Yellow" = "";
-"Green" = "";
-"Turquoise" = "";
-"LightBlue" = "";
-"SkyBlue" = "";
-"RoyalBlue" = "";
-"MediumPurple" = "";
-"Purple" = "";
-"Violet" = "";
-"Pink" = "";
-"Silver" = "";
-"DarkSeaGreen" = "";
-"RosyBrown" = "";
-"Gray" = "";
-"Black" = "";
+"Random Color" = "Случайный цвет";
+"Red" = "Красный";
+"White" = "Белый";
+"Blue" = "Синий";
+"Coral" = "Коралловый";
+"Orange" = "Оранжевый";
+"Yellow" = "Желтый";
+"Green" = "Зеленый";
+"Turquoise" = "Бирюзовый";
+"LightBlue" = "Светло-синий";
+"SkyBlue" = "Лазурь";
+"RoyalBlue" = "Королевский синий";
+"MediumPurple" = "Сиреневый";
+"Purple" = "Пурпурный";
+"Violet" = "Фиолетовый";
+"Pink" = "Розовый";
+"Silver" = "Серебряный";
+"DarkSeaGreen" = "Темно-зеленое море";
+"RosyBrown" = "Розово-коричневый";
+"Gray" = "Серый";
+"Black" = "Черный";
 
 
 "DefaultView" = "";
@@ -245,17 +245,17 @@
 "Up/LeftDown/RightDown" = "";
 "LeftUp/RightUp/Down" = "";
 
-"Today is Friday?" = "";
-"NO" = "";
-"YES" = "";
+"Today is Friday?" = "Сегодня пятница?";
+"NO" = "ДА";
+"YES" = "НЕТ";
 
-"Choose Photo" = "";
-"Save Successfully!" = "";
-"Add To HomeScreen,Choose Your Photo Name" = "";
+"Choose Photo" = "Выберите фото";
+"Save Successfully!" = "Успешно сохранено!";
+"Add To HomeScreen,Choose Your Photo Name" = "Добавить на домашний экран,Укажите название вашего фото";
 "Do't need to choose" = "";
-"NO Data" = "";
-"Edit Photo" = "";
-"It is recommended to upload images less than 1m." = "";
+"NO Data" = "НЕТ информации";
+"Edit Photo" = "Редактирование фото";
+"It is recommended to upload images less than 1m." = "Рекомендуется загружать фотографии, размер которых меньше 1 МБ";
 
 "Your Reminder task data can be shown in the Reminders widget and tool.OneWidget just read data to show." = "";
 "Your Calendar event data can be shown in the Agenda widget and tool.OneWidget just read data to show." = "";
@@ -271,9 +271,9 @@
 "You can choose parameter to preview" = "";
 
 //widgets
-"First Type" = "";
-"Second Type" = "";
-"Third Type" = "";
-"Fourth Type" = "";
-"Mode" = "";
+"First Type" = "Первый тип";
+"Second Type" = "Второй тип";
+"Third Type" = "Трертий тип";
+"Fourth Type" = "Четвертый тип";
+"Mode" = "Режим";
 "Second #Index(Data/Style)" = "";
